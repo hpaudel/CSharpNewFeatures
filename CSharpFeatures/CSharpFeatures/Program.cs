@@ -15,7 +15,7 @@ namespace ConsoleApp1
         {
 
 
-            //base keyword features
+            // Need to improve more
 
             BaseEmployee E = new BaseEmployee();
             E.GetInfo();
